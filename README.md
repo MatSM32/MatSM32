@@ -1,9 +1,9 @@
 <h1>Hi, I'm Matthew! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [Cloud-Red-Blue-Team-](https://github.com/MatSM32/Cloud-Red-Blue-Team-.git)
+[Cloud-Red-Blue-Team-](https://github.com/MatSM32/Cloud-Red-Blue-Team-.git)
 
 <h2>Certifications</h2>
-Comptia Security+
+CompTIA Security+
 
 
 
